@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you reference this project, please cite it as below."
+title: "VESUVIO: Blood of Naples — Pitch Package"
+type: creative-work
+authors:
+  - family-names: "Plesca"
+    given-names: "Ciprian Stefan"
+date-released: 2026-07-18
+version: "1.1.0"
+repository-code: "https://github.com/REPLACE-WITH-YOUR-USERNAME/VESUVIO"
+abstract: >
+  A complete pitch/development package for "VESUVIO: Blood of Naples,"
+  an original modern mafia television series created by Ciprian Stefan
+  Plesca, set in Naples, Italy. Includes story bible, character bible,
+  episode guide, pilot script, original Neapolitan-dialect theme track,
+  and cinematic key art.
+keywords:
+  - television
+  - screenwriting
+  - crime-drama
+  - mafia
+  - naples
+  - italy
+  - pitch-deck
+license: LicenseRef-VESUVIO-Creative-Content-License

@@ -78,6 +78,23 @@ trap territory.
 
 ---
 
+## 🧭 Deep-Dive Documents
+
+| Doc | Purpose |
+|---|---|
+| [`FAQ.md`](FAQ.md) | General questions |
+| [`PRODUCERS_FAQ.md`](PRODUCERS_FAQ.md) | Questions for studios/producers |
+| [`TIMELINE.md`](TIMELINE.md) | In-world chronology |
+| [`docs/map.pdf`](docs/map.pdf) | Universe map — key locations & territory |
+| [`CANON.md`](CANON.md) | What's fixed vs. still in development |
+| [`LORE.md`](LORE.md) | Expanded, explorative background material |
+| [`STYLE_GUIDE.md`](STYLE_GUIDE.md) | Fonts, colors, logo, tone & voice |
+| [`AUTHORS.md`](AUTHORS.md) / [`CITATION.cff`](CITATION.cff) | Credits & citation |
+| [`SUPPORT.md`](SUPPORT.md) | Donations & funding |
+| [`GITHUB_SETUP.md`](GITHUB_SETUP.md) | Topics, releases, social preview setup |
+
+---
+
 ## 📂 Repository Structure
 
 ```
@@ -93,12 +110,22 @@ VESUVIO/
 ├── BUSINESS.md
 ├── INVESTORS.md
 ├── FESTIVALS.md
+├── SUPPORT.md                → donations & funding details
 ├── GITHUB_SETUP.md           → topics, releases, social preview instructions
+├── FAQ.md
+├── PRODUCERS_FAQ.md
+├── TIMELINE.md                → in-world chronology
+├── CANON.md                   → binding vs. developmental story elements
+├── LORE.md                    → expanded background material
+├── STYLE_GUIDE.md             → fonts, colors, logo, tone & voice
+├── AUTHORS.md
+├── CITATION.cff
 ├── docs/
 │   ├── story_bible/
 │   │   ├── Story_Bible.md
 │   │   └── Story_Bible.pdf
 │   ├── Moodbook.md / .pdf
+│   ├── map.svg / map.pdf      → Universe map
 │   ├── LYRICS_BILINGUAL.md
 │   └── PROCESS_NOTE.md
 ├── characters/
@@ -143,10 +170,16 @@ VESUVIO/
 │   └── promo_trailer.mp4
 ├── prompts/
 │   └── generation_rules.txt
-└── .github/workflows/
-    ├── markdown-lint.yml
-    ├── link-checker.yml
-    └── spellcheck.yml
+└── .github/
+    ├── workflows/
+    │   ├── markdown-lint.yml
+    │   ├── link-checker.yml
+    │   └── spellcheck.yml
+    ├── ISSUE_TEMPLATE/
+    │   ├── bug_report.md
+    │   └── feature_request.md
+    ├── PULL_REQUEST_TEMPLATE.md
+    └── FUNDING.yml
 ```
 
 ---

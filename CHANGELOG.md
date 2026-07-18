@@ -32,3 +32,25 @@ semantic versioning, appropriate for a creative pitch package.
 ### Added
 - Initial pitch package: `README.md`, `LICENSE`, original theme track,
   bilingual lyrics, key art, process note.
+
+## [1.2.0] — 2026-07-18
+### Added
+- GitHub-standard templates: `.github/ISSUE_TEMPLATE/bug_report.md`,
+  `.github/ISSUE_TEMPLATE/feature_request.md`,
+  `.github/PULL_REQUEST_TEMPLATE.md`, `.github/FUNDING.yml`
+- `CITATION.cff` for machine-readable project citation
+- `AUTHORS.md`
+- `FAQ.md` and `PRODUCERS_FAQ.md`
+- `TIMELINE.md` (in-world chronology, separate from the Story Bible)
+- `docs/map.svg` / `docs/map.pdf` — Universe Map of key locations and
+  territory
+- `STYLE_GUIDE.md` — fonts, colors, logo usage, tone & voice
+- `CANON.md` — defines binding vs. developmental story elements
+- `LORE.md` — expanded, non-binding background material
+- `SUPPORT.md` — donation and funding details (PayPal, bank transfer,
+  cryptocurrency)
+
+### Changed
+- Re-confirmed `LICENSE` coherence: custom Creative Content License,
+  explicitly not standard MIT, consistent across all references in
+  `README.md`, badges, and documentation.

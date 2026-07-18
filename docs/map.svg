@@ -1,0 +1,66 @@
+<svg width="1000" height="700" viewBox="0 0 1000 700" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0a0d14"/>
+      <stop offset="100%" stop-color="#161b26"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="700" fill="url(#bg)"/>
+
+  <text x="500" y="50" text-anchor="middle" font-family="Georgia, serif" font-size="30"
+        letter-spacing="6" fill="#f2ede4" font-weight="bold">VESUVIO: BLOOD OF NAPLES</text>
+  <text x="500" y="78" text-anchor="middle" font-family="Georgia, serif" font-size="14"
+        letter-spacing="4" fill="#caa15a">UNIVERSE MAP — KEY LOCATIONS &amp; TERRITORY</text>
+
+  <!-- Vesuvius -->
+  <polygon points="430,220 560,220 620,320 370,320" fill="#1c212c" stroke="#3a4152" stroke-width="2"/>
+  <line x1="500" y1="230" x2="500" y2="300" stroke="#b5432a" stroke-width="3" opacity="0.85"/>
+  <text x="500" y="345" text-anchor="middle" font-family="Georgia, serif" font-size="15" fill="#caa15a">MOUNT VESUVIUS</text>
+  <text x="500" y="362" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#8a93a6">Dormant threat / central visual motif</text>
+
+  <!-- Bay line -->
+  <path d="M 100 480 Q 500 520 900 480" stroke="#2a3040" stroke-width="30" fill="none" opacity="0.4"/>
+  <text x="500" y="500" text-anchor="middle" font-family="Georgia, serif" font-size="11" fill="#5b647a">GULF OF NAPLES</text>
+
+  <!-- Rione (Ranieri territory) -->
+  <rect x="120" y="380" width="180" height="90" rx="6" fill="#1c212c" stroke="#caa15a" stroke-width="1.5"/>
+  <text x="210" y="415" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">THE RIONE</text>
+  <text x="210" y="435" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Ranieri home turf</text>
+  <text x="210" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Emotional center of the show</text>
+
+  <!-- Historic Center -->
+  <rect x="400" y="420" width="200" height="90" rx="6" fill="#1c212c" stroke="#caa15a" stroke-width="1.5"/>
+  <text x="500" y="455" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">HISTORIC CENTER</text>
+  <text x="500" y="475" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Institutions, tourism, "Upper Naples"</text>
+  <text x="500" y="492" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Neutral / public-facing ground</text>
+
+  <!-- Port -->
+  <rect x="700" y="380" width="190" height="90" rx="6" fill="#1c212c" stroke="#b5432a" stroke-width="1.5"/>
+  <text x="795" y="415" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">PORT OF NAPLES</text>
+  <text x="795" y="435" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Economic engine</text>
+  <text x="795" y="452" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Site of inciting incident (Ep.1)</text>
+
+  <!-- Villa -->
+  <rect x="120" y="540" width="180" height="90" rx="6" fill="#1c212c" stroke="#caa15a" stroke-width="1.5"/>
+  <text x="210" y="575" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">FAMILY VILLA</text>
+  <text x="210" y="595" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Private, "sacred" space</text>
+  <text x="210" y="612" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Family rules are absolute</text>
+
+  <!-- Church -->
+  <rect x="400" y="540" width="200" height="90" rx="6" fill="#1c212c" stroke="#caa15a" stroke-width="1.5"/>
+  <text x="500" y="575" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">THE CHURCH</text>
+  <text x="500" y="595" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Ritual, confession, funerals</text>
+  <text x="500" y="612" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Rare neutral ground between rivals</text>
+
+  <!-- Esposito territory -->
+  <rect x="700" y="540" width="190" height="90" rx="6" fill="#1c212c" stroke="#b5432a" stroke-width="1.5"/>
+  <text x="795" y="575" text-anchor="middle" font-family="Georgia, serif" font-size="14" fill="#f2ede4">ESPOSITO TERRITORY</text>
+  <text x="795" y="595" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Rising rival faction</text>
+  <text x="795" y="612" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#8a93a6">Adjacent, contested boundary</text>
+
+  <!-- Legend -->
+  <rect x="120" y="655" width="14" height="14" fill="none" stroke="#caa15a" stroke-width="1.5"/>
+  <text x="142" y="666" font-family="Georgia, serif" font-size="11" fill="#8a93a6">Ranieri-aligned / neutral</text>
+  <rect x="340" y="655" width="14" height="14" fill="none" stroke="#b5432a" stroke-width="1.5"/>
+  <text x="362" y="666" font-family="Georgia, serif" font-size="11" fill="#8a93a6">Contested / Esposito-aligned</text>
+</svg>
