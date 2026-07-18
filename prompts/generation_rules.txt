@@ -1,0 +1,51 @@
+VESUVIO: BLOOD OF NAPLES — AI GENERATION RULES
+================================================
+Author / Creative Direction: Ciprian Stefan Plesca
+Purpose: Documented prompt logic used to guide AI-assisted production
+of the theme track and key art, in the interest of transparency.
+
+------------------------------------------------
+1. COVER ART / KEY ART GENERATION
+------------------------------------------------
+Core direction given to the image model:
+
+- Subject: Mount Vesuvius looming over a dense, nighttime Naples skyline
+  (apartment blocks, scattered lights, no landmarks that break realism).
+- Mood: Ominous, cinematic, "every city has a dark heart" — storm clouds,
+  a single glowing vein of light/lava down the volcano to suggest latent
+  danger.
+- Composition: Wide 16:9 cinematic aspect ratio, symmetrical framing with
+  the volcano centered behind the title card.
+- Typography treatment: Distressed, weathered white serif/display type for
+  the main title ("VESUVIO"), thin tracked-out subtitle type for taglines.
+- Palette: Near-monochrome charcoal/blue night tones with a single warm
+  gold accent color reserved for credits and highlighted keywords.
+- Extra motifs: Falling black feathers for a funerary / omen visual cue.
+- Explicitly avoided: real identifiable people, existing studio logos,
+  copyrighted characters, or any licensed IP.
+
+------------------------------------------------
+2. THEME TRACK GENERATION
+------------------------------------------------
+Core direction given to the music/lyric workflow:
+
+- Language: Written first in Neapolitan dialect (not standard Italian),
+  authored by the creator, to keep the show's regional identity intact.
+- Structure: Intro -> Verse (Male) -> Verse (Female) -> Pre-Chorus (Duet)
+  -> hard stop/silence beat -> Chorus (Duet) -> Heavy Drop -> Bridge
+  (fast alternating dialogue) -> Outro fade to black.
+- Genre target: Dark cinematic / melodic trap. Sub-bass, distorted bells,
+  industrial percussion, trap snare rolls, a one-second dead-silence
+  before the chorus for dramatic impact.
+- Vocal direction: Male/female duet representing two perspectives within
+  the same code of loyalty and power.
+- Explicitly avoided: sampling or reproducing any existing copyrighted
+  composition, melody, or lyric.
+
+------------------------------------------------
+3. GENERAL PRINCIPLE
+------------------------------------------------
+AI tools were used strictly as production accelerants for an
+originally-authored concept, story, and lyric set. All narrative,
+thematic, and dialect-specific content originates from the credited
+human creator, Ciprian Stefan Plesca.
