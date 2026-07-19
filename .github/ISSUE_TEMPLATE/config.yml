@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Support & Donations
+    url: https://github.com/Ciprian-LocalPulse/VESUVIO-repo/blob/main/SUPPORT.md
+    about: Ways to financially support development of this project.
+  - name: Producers / Investors FAQ
+    url: https://github.com/Ciprian-LocalPulse/VESUVIO-repo/blob/main/PRODUCERS_FAQ.md
+    about: Questions about acquiring, financing, or producing this project.

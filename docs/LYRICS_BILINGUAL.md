@@ -1,5 +1,6 @@
 # VESUVIO: Blood of Naples — Original Theme
-### Bilingual Lyrics (Neapolitan → English)
+
+## Bilingual Lyrics (Neapolitan → English)
 
 **Track:** `assets/track_final.mp3`
 **Language:** Neapolitan dialect (Italy) with English translation
@@ -9,9 +10,11 @@
 ---
 
 ## [Intro]
+
 *(Dark cinematic sub-bass, eerie vinyl crackle, distant police sirens)*
 
 ## [Verse 1 — Male]
+>
 > 'O silenzio parla chiaro 'int''o rione,
 > *(Silence speaks clearly inside the neighborhood,)*
 >
@@ -25,6 +28,7 @@
 > *(For ten years we've been going on the exact same way.)*
 
 ## [Verse 2 — Female]
+>
 > 'O fuoco abbrucia sulo a chi sa rignà,
 > *(The fire burns only for those who know how to reign,)*
 >
@@ -38,6 +42,7 @@
 > *(There are no friends, there is no one standing behind us.)*
 
 ## [Pre-Chorus — Duet]
+
 *(Heavy trap snare rolls, bass swelling up, tense atmosphere)*
 
 > Aiz' 'o sguardo, vide bbuono chi simmo...
@@ -49,6 +54,7 @@
 *(Stop! Dead silence for 1 second)*
 
 ## [Chorus — Duet]
+>
 > NUN CE STA SCUSA! NUN CE STA PIETÀ!
 > *(THERE IS NO EXCUSE! THERE IS NO PITY!)*
 >
@@ -64,6 +70,7 @@
 *(Heavy Drop — Dark Melodic Trap, aggressive 808 bass, eerie distorted bells)*
 
 ## [Bridge — Fast Dialogue]
+>
 > **[Male]:** 'O rispietto...
 > *([Male]: Respect...)*
 >
@@ -80,6 +87,7 @@
 > *([Duet]: Nobody is saved here, nobody turns back!)*
 
 ## [Outro]
+
 *(Slow heavy bass pulses, distant industrial metal clangs)*
 
 > Ccà cumandammo nuje...
@@ -90,6 +98,7 @@
 ---
 
 ### Notes on Dialect
+
 The lyrics are written in authentic **Neapolitan dialect** rather than
 standard Italian, reflecting the setting of the series in Naples and giving
 the track linguistic and cultural authenticity consistent with the

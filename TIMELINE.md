@@ -5,11 +5,13 @@
 timeline of the story itself.)*
 
 ## Pre-History
+
 - **1980s–1990s:** Naples' historical clan wars. The Ranieri family
   consolidates territory in their aftermath; the Esposito family
   establishes itself as a secondary regional power.
 
 ## Ten Years Before the Series
+
 - A near-catastrophic war between the major Naples clans nearly destroys
   all factions involved.
 - Salvatore Ranieri brokers **"'a Pace"** ("the Peace") — a truce
@@ -21,11 +23,13 @@ timeline of the story itself.)*
   boundaries the Peace imposes on his family.
 
 ## Five Years Before the Series
+
 - Marco returns to Naples and begins working his way back into the
   family's confidence.
 - Commissario Elena Ferraro transfers to Naples' anti-mafia division.
 
 ## Season 1 (Present Day)
+
 - **Episode 1:** The tenth anniversary of the Peace. A small, deniable
   provocation at the port sets the season's events in motion.
 - **Episodes 2–5:** Escalating suspicion and small-scale violations of
@@ -38,6 +42,7 @@ timeline of the story itself.)*
   toward the next generation.
 
 ## Beyond Season 1
+
 See the Story Bible's "Series Arc" section
 ([docs/story_bible/Story_Bible.md](docs/story_bible/Story_Bible.md)) for
 the planned Season 2–3 trajectory.

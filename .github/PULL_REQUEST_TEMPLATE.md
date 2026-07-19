@@ -1,17 +1,28 @@
+# Pull Request
+
 ## Summary
 
-What does this PR change, and why?
+Briefly describe what this PR changes and why.
 
-## Type of change
-- [ ] Typo / formatting fix
-- [ ] Broken link fix
-- [ ] Documentation clarification
-- [ ] Other (creative content changes are not accepted without prior
-      written agreement — see [LICENSE](../LICENSE) and
-      [CONTRIBUTING.md](../CONTRIBUTING.md))
+## Type of Change
+
+- [ ] Documentation fix (typo, formatting, broken link)
+- [ ] New documentation/material
+- [ ] Content update to existing bible/canon material
+- [ ] Repository infrastructure (CI, config, templates)
+- [ ] Other (please describe)
 
 ## Checklist
-- [ ] I have read [CONTRIBUTING.md](../CONTRIBUTING.md)
-- [ ] This PR does not alter the story, characters, lyrics, or creative
-      direction of the property
-- [ ] Links and formatting have been checked
+
+- [ ] I have read [`CONTRIBUTING.md`](../CONTRIBUTING.md)
+- [ ] Changes preserve existing canon and do not contradict the
+      [Story Bible](../VESUVIO_Story_Bible.md), [World Bible](../VESUVIO_World_Bible_Extended.md),
+      or [Character Bible](../VESUVIO_Character_Bible.md) unless intentionally proposing a canon change
+- [ ] Markdown passes `markdownlint` (`.markdownlint.json`)
+- [ ] Spelling passes `cspell` (`.cspell.json`) — new proper nouns/dialect terms added to the dictionary if needed
+- [ ] Links have been verified (no broken internal or external links)
+- [ ] I have updated [`CHANGELOG.md`](../CHANGELOG.md) if applicable
+
+## Related Issues
+
+Closes #

@@ -1,8 +1,49 @@
 {
   "default": true,
-  "MD013": false,
-  "MD033": false,
-  "MD025": false,
-  "MD040": false,
-  "MD041": false
+  "MD013": {
+    "line_length": 120,
+    "code_blocks": false,
+    "tables": false,
+    "headings": false
+  },
+  "MD033": {
+    "allowed_elements": [
+      "br",
+      "img",
+      "p",
+      "div",
+      "span",
+      "sub",
+      "sup",
+      "details",
+      "summary",
+      "a",
+      "b",
+      "i",
+      "em",
+      "strong",
+      "h1",
+      "h2",
+      "h3",
+      "h4",
+      "center",
+      "table",
+      "thead",
+      "tbody",
+      "tr",
+      "td",
+      "th"
+    ]
+  },
+  "MD024": {
+    "siblings_only": true
+  },
+  "MD025": {
+    "front_matter_title": ""
+  },
+  "MD041": true,
+  "MD040": true,
+  "MD036": false,
+  "MD022": true,
+  "MD032": true
 }

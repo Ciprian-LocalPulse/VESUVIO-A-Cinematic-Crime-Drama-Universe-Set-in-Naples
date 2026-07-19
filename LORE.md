@@ -6,6 +6,7 @@ detailed in the [Story Bible](docs/story_bible/Story_Bible.md). Unlike
 the series develops with production partners.
 
 ## The Peace: Extended Background
+
 "'A Pace" was not a single negotiated document but a set of informal,
 mutually understood boundaries — territorial, financial, and personal —
 established in the aftermath of a war that nearly ended every clan
@@ -15,6 +16,7 @@ memory and reputation, carried by a generation that is now aging out of
 power.
 
 ## The Rione: A Living Neighborhood
+
 The Rione is written as a specific, cohesive community rather than
 generic "mob territory" — multigenerational households, small
 businesses that predate the family's involvement in them, and a local
@@ -24,6 +26,7 @@ as a community with its own interior life, not merely a backdrop for
 family business.
 
 ## The Church's Dual Role
+
 Beyond Don Pietro's individual arc, the church in VESUVIO functions as
 one of the only spaces in the show where rival families interact under
 enforced civility (funerals, feast days, confession). Writers developing
@@ -31,6 +34,7 @@ future episodes can use church settings as low-violence, high-tension
 scene opportunities.
 
 ## Vesuvius as Living Symbol
+
 The volcano is deliberately never given supernatural or mystical
 qualities — its power in the show is entirely symbolic and
 psychological, reinforced by its literal, scientific dormant-but-not-
@@ -39,6 +43,7 @@ avoid personifying or mythologizing the mountain beyond its established
 visual motif (see [`docs/Moodbook.md`](docs/Moodbook.md)).
 
 ## Open Questions for Future Development
+
 - The full history of the original clan war (pre-Peace) is intentionally
   left open for Season 2–3 flashback development.
 - The extent of Judge Conte's original debt to the Ranieri family is

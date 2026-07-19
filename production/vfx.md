@@ -1,6 +1,7 @@
 # Production Bible — VFX
 
 ## Philosophy
+
 Minimal, invisible VFX in service of grounded realism — no stylized or
 graphic-novel-style effects work. VFX budget is prioritized for:
 
@@ -16,5 +17,6 @@ graphic-novel-style effects work. VFX budget is prioritized for:
   violence (Section 11).
 
 ## What to Avoid
+
 Any VFX that calls attention to itself. The show's visual identity
 depends on the audience never doubting they're watching real Naples.

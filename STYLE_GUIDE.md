@@ -1,6 +1,7 @@
 # Brand & Style Guide
 
 ## Fonts
+
 - **Display / Title:** Distressed, weathered serif (e.g. Georgia or
   Times New Roman as a substitute for a custom distressed treatment) —
   used for the "VESUVIO" wordmark, always tracked out (wide letter
@@ -14,7 +15,7 @@
 ## Color Palette
 
 | Role | Hex (approx.) | Usage |
-|---|---|---|
+| --- | --- | --- |
 | Primary background | `#0a0d14` | Night sky, primary dark backgrounds |
 | Secondary dark | `#1a1f2b` / `#12151c` | Mountain silhouette, panels |
 | Gold accent | `#caa15a` → `#e8cf9a` (gradient) | Titles, credits, key highlights — used sparingly |
@@ -28,6 +29,7 @@ Overuse dilutes their impact — see the Moodbook's "rule of restraint"
 principle in [`docs/Moodbook.md`](docs/Moodbook.md).
 
 ## Logo Usage
+
 - Primary logo: [`logos/logo.svg`](logos/logo.svg) /
   [`logos/logo.png`](logos/logo.png).
 - Minimum clear space: maintain space around the logo equal to the
@@ -39,12 +41,14 @@ principle in [`docs/Moodbook.md`](docs/Moodbook.md).
   running text after first mention.
 
 ## Tone & Voice (Marketing / Public-Facing Copy)
+
 - **Confident, restrained, cinematic** — short declarative sentences,
   minimal exclamation, no genre clichés ("gritty," "explosive").
 - Lead with atmosphere and stakes, not plot mechanics.
 - Reference example: *"Every city has a dark heart. This is Naples."*
 
 ## Tone & Voice (Scripts / Story Materials)
+
 - Dialogue prioritizes authenticity (Neapolitan dialect) over
   accessibility — see Story Bible Section 12 for the vocabulary
   standard.
@@ -53,6 +57,7 @@ principle in [`docs/Moodbook.md`](docs/Moodbook.md).
   11.
 
 ## Documentation Style (This Repository)
+
 - Markdown headers: sentence case for section titles, title case for
   document titles.
 - Internal links use relative paths, always verified against the

@@ -17,6 +17,7 @@ festivals and industry markets include:
   European series seeking global streaming attention.
 
 ## Strategy Notes
+
 - Target Series Mania and Canneseries primarily during the pitch/packaging
   stage for market visibility and partner introductions.
 - Target Venice and Berlinale Series for premiere placement post-

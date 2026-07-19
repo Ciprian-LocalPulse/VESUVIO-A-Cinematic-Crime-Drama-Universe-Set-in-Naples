@@ -5,6 +5,7 @@ date: "2026"
 ---
 
 # VESUVIO: Blood of Naples
+
 ## Pitch Deck
 
 *An original idea by Ciprian Stefan Plesca*
@@ -41,6 +42,7 @@ crime drama in the global streaming market.
 ## References
 
 For tonal and structural reference (not derivative intent):
+
 - Prestige multi-generational crime family dramas
 - Regional-language European crime series with global streaming success
 - Character-first ensemble writing over plot-first genre execution

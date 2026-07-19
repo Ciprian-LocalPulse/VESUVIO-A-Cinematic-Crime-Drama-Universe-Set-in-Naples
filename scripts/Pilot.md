@@ -6,7 +6,9 @@ date: "2026"
 ---
 
 # VESUVIO: BLOOD OF NAPLES
+
 ## Episode 1: "'A Pace" ("The Peace")
+
 ### Written by Ciprian Stefan Plesca
 
 *Pilot script — Act One (sample pages). Full pilot available on request.*

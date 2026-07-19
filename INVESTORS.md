@@ -1,6 +1,7 @@
 # For Investors & Production Partners
 
 ## What We're Looking For
+
 "VESUVIO: Blood of Naples" is seeking one or more of the following:
 
 - A **production partner or studio** to attach a showrunner/director and
@@ -12,6 +13,7 @@
 - **Casting and talent attachment** introductions.
 
 ## What We Offer
+
 - A complete, ready-to-develop pitch package: story bible, character
   bible, episode guide, pilot script sample, original music, and key art
   — reducing early development time and risk.
@@ -21,10 +23,12 @@
   from day one.
 
 ## Current Stage
+
 Pitch / early development. See [`ROADMAP.md`](ROADMAP.md) for what's
 complete and what's next.
 
 ## Contact
+
 For serious inquiries regarding development, financing, or production
 partnership, please open an issue in this repository or reach out
 directly to the creator, **Ciprian Stefan Plesca**.

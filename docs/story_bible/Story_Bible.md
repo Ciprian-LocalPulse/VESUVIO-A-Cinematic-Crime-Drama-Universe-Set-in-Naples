@@ -5,6 +5,7 @@ date: "2026"
 ---
 
 # VESUVIO: Blood of Naples
+
 ## Official Story Bible
 
 *An original series created by Ciprian Stefan Plesca*
@@ -30,7 +31,7 @@ date: "2026"
 
 ---
 
-# 1. Logline & Premise
+## 1. Logline & Premise
 
 For ten years, an uneasy peace has held the criminal underworld of Naples
 together. When a single act of betrayal breaks that peace, three
@@ -51,7 +52,7 @@ temporary.
 
 ---
 
-# 2. The World of Naples
+## 2. The World of Naples
 
 Naples is presented not as postcard Italy, but as a living, breathing,
 contradictory city: sun-bleached palazzos beside crumbling social housing;
@@ -72,7 +73,7 @@ crossing into the first to show how thin the line between them really is.
 
 ---
 
-# 3. Timeline & History
+## 3. Timeline & History
 
 - **1980s–90s:** The founding generation consolidates territory in the
   chaos following Naples' historical clan wars. The family at the center
@@ -90,7 +91,7 @@ crossing into the first to show how thin the line between them really is.
 
 ---
 
-# 4. Politics & Power Structure
+## 4. Politics & Power Structure
 
 Power in the world of VESUVIO operates on three interlocking levels:
 
@@ -112,7 +113,7 @@ temporary agreements like "the Peace."
 
 ---
 
-# 5. Camorra Structure
+## 5. Camorra Structure
 
 A simplified in-world hierarchy used consistently across the series:
 
@@ -132,7 +133,7 @@ A simplified in-world hierarchy used consistently across the series:
 
 ---
 
-# 6. The Families
+## 6. The Families
 
 *(Full biographical detail for individual characters lives in
 `/characters/`. This section covers the family/clan units.)*
@@ -147,10 +148,10 @@ A simplified in-world hierarchy used consistently across the series:
 
 ---
 
-# 7. Key Locations
+## 7. Key Locations
 
 | Location | Narrative Function |
-|---|---|
+| --- | --- |
 | **The Rione** | Home turf of the Ranieri family; the emotional center of the show |
 | **The Port of Naples** | Economic engine of the family's power; site of major set-pieces |
 | **Mount Vesuvius (exteriors)** | Visual motif; recurring establishing shots signaling tonal shifts |
@@ -160,7 +161,7 @@ A simplified in-world hierarchy used consistently across the series:
 
 ---
 
-# 8. Rules & Codes of Conduct
+## 8. Rules & Codes of Conduct
 
 The world of VESUVIO operates on an unwritten but rigidly enforced code,
 echoed directly in the show's theme song:
@@ -179,7 +180,7 @@ echoed directly in the show's theme song:
 
 ---
 
-# 9. Religion & Ritual
+## 9. Religion & Ritual
 
 Catholic ritual is woven through the show not as decoration but as a
 genuine, contradictory moral framework the characters live inside:
@@ -190,7 +191,7 @@ can the code and the confessional coexist?
 
 ---
 
-# 10. Money & Economy
+## 10. Money & Economy
 
 The economic backbone of the family's power runs through:
 
@@ -206,7 +207,7 @@ financial pressure point.
 
 ---
 
-# 11. Weapons & Violence
+## 11. Weapons & Violence
 
 Violence in VESUVIO is treated as consequence, not spectacle. Guidelines
 for the writers' room and director:
@@ -220,14 +221,14 @@ for the writers' room and director:
 
 ---
 
-# 12. Vocabulary & Dialect Guide
+## 12. Vocabulary & Dialect Guide
 
 A living glossary of Neapolitan terms used consistently across scripts —
 see also the theme song lyrics in
 [`/docs/LYRICS_BILINGUAL.md`](../LYRICS_BILINGUAL.md).
 
 | Neapolitan | English | Usage |
-|---|---|---|
+| --- | --- | --- |
 | 'o rione | the neighborhood | Home turf, identity |
 | 'o pizzo | protection money | Extortion payment |
 | 'o silenzio | the silence | Code of secrecy |
@@ -240,7 +241,7 @@ see also the theme song lyrics in
 
 ---
 
-# 13. Themes & Tone
+## 13. Themes & Tone
 
 - **Loyalty vs. survival** — what happens when doing right by the family
   means doing wrong by yourself.
@@ -254,7 +255,7 @@ character-first, morally complex — rather than genre pastiche.
 
 ---
 
-# 14. Series Arc
+## 14. Series Arc
 
 **Season 1** establishes the Peace, the families, and the betrayal that
 breaks it — ending on a point of no return.

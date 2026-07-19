@@ -1,20 +1,31 @@
 ---
-name: Bug / Documentation Report
-about: Report a typo, broken link, or formatting issue in the repository
-title: "[DOCS] "
-labels: documentation
-assignees: ''
+name: Bug report
+about: Report a broken link, formatting issue, or repository defect
+title: "[BUG] "
+labels: bug
+assignees: ""
 ---
 
-**Where is the issue?**
-File/path (e.g. `docs/story_bible/Story_Bible.md`):
+## Describe the Issue
 
-**What's wrong?**
-A clear description of the typo, broken link, formatting issue, or
-inconsistency.
+A clear and concise description of what's wrong (broken link, rendering
+issue, inconsistent formatting, factual/canon inconsistency between
+documents, etc.).
 
-**Suggested fix (optional)**
-If you already know the correct fix, describe it here.
+## Location
 
-**Additional context**
-Screenshots or anything else that helps.
+- File(s): `path/to/file.md`
+- Section/heading:
+- Line number (if known):
+
+## Expected Behavior
+
+What you expected to see instead.
+
+## Screenshots
+
+If applicable, add screenshots to help explain the problem.
+
+## Additional Context
+
+Add any other context about the problem here.

@@ -5,6 +5,7 @@ Plesca**, produced with the assistance of generative AI tools used as
 production accelerants under direct human creative direction.
 
 ## What AI Tools Were Used For
+
 - **Image generation:** rendering the key art (`assets/cover_art.jpg`)
   from a detailed creative brief authored by Ciprian Stefan Plesca (see
   `prompts/generation_rules.txt` for the documented prompt logic).
@@ -16,6 +17,7 @@ production accelerants under direct human creative direction.
   concepts, structure, and direction originated by the creator.
 
 ## What Is Human-Authored
+
 - The core series concept, premise, and title.
 - The Neapolitan-dialect lyrics and song structure in full.
 - All character concepts, relationships, and narrative arcs.
@@ -23,6 +25,7 @@ production accelerants under direct human creative direction.
   every AI tool used in production.
 
 ## Copyright & Ownership
+
 Ciprian Stefan Plesca is the sole author and rights holder of the
 original creative concept, story, characters, and lyrics contained in
 this repository. Generative AI tools were used as instruments of
@@ -35,6 +38,7 @@ further detail on the production process — see
 [`docs/PROCESS_NOTE.md`](docs/PROCESS_NOTE.md).
 
 ## A Note on Uncertainty
+
 Generative AI copyright law is an evolving area, and treatment varies by
 jurisdiction. This document reflects the creator's good-faith account of
 the production process; it is not a legal opinion. Formal legal review is

@@ -6,6 +6,7 @@ open to development (see [`LORE.md`](LORE.md) for expanded, non-binding
 background material).
 
 ## Canonical Elements
+
 - The core premise: a ten-year truce ("'a Pace") among Naples crime
   families, broken by betrayal in Season 1.
 - The seven core characters and their defining relationships, as
@@ -20,6 +21,7 @@ background material).
   series.
 
 ## Subject to Development
+
 - Exact episode-level dialogue and scene staging beyond the Pilot sample
   (see [`scripts/Pilot.md`](scripts/Pilot.md)).
 - Season 2–3 plot specifics beyond the high-level arc described in the
@@ -30,6 +32,7 @@ background material).
   (see [`BUSINESS.md`](BUSINESS.md)).
 
 ## Change Control
+
 Any change to a canonical element listed above requires the creator's
 explicit approval and should be reflected in [`CHANGELOG.md`](CHANGELOG.md).
 Non-canonical / developmental material may evolve more freely during

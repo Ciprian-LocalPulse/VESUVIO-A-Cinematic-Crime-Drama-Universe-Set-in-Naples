@@ -1,31 +1,32 @@
 ---
-name: Inquiry / Collaboration Request
-about: Production, financing, licensing, or partnership inquiries
-title: "[INQUIRY] "
-labels: inquiry
-assignees: ''
+name: Feature request
+about: Suggest an addition or improvement to the pitch package
+title: "[REQUEST] "
+labels: enhancement
+assignees: ""
 ---
 
-**Who are you / what organization are you with?**
-(Studio, production company, investor, festival, etc. — brief intro.)
+## Summary
 
-**What are you interested in?**
-- [ ] Production partnership
-- [ ] Financing / investment
-- [ ] Distribution / licensing
-- [ ] Casting / talent attachment
-- [ ] Festival / press
-- [ ] Other (describe below)
+A clear and concise description of what you'd like added or changed
+(e.g. a new document, an expanded section, additional production
+material).
 
-**Details**
-Tell us more about your interest and what you'd like to discuss.
+## Motivation
 
-**Contact information**
-Preferred way to follow up (email, etc. — will not be publicly visible
-if you'd rather keep it private; mention this and we'll follow up
-directly).
+Why would this addition help the pitch package, the production
+materials, or the repository's usability?
 
----
-*Note: This repository is a creative pitch package, not open-source
-software. See [CONTRIBUTING.md](../../CONTRIBUTING.md) and
-[INVESTORS.md](../../INVESTORS.md) for more context.*
+## Proposed Content / Scope
+
+Describe what the new material would cover. If it touches existing
+canon (Story Bible, World Bible, Character Bible), note how it relates
+to the existing material.
+
+## Alternatives Considered
+
+Any alternative approaches you've considered.
+
+## Additional Context
+
+Add any other context, references, or examples here.

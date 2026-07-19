@@ -5,6 +5,7 @@ date: "2026"
 ---
 
 # VESUVIO: Blood of Naples
+
 ## Moodbook — Visual & Sonic Identity
 
 ---
@@ -56,7 +57,7 @@ become crime scenes.
 ## 5. Color Palette
 
 | Palette Role | Description |
-|---|---|
+| --- | --- |
 | Primary | Charcoal, near-black navy, deep slate |
 | Secondary | Warm stone / sun-bleached ochre (historic center exteriors) |
 | Accent | Muted gold — reserved for ritual, power, and key emotional beats |

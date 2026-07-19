@@ -12,12 +12,13 @@ helps, no matter the size.
 > are otherwise usually kept private.
 
 ## 💳 PayPal
+
 [paypal.me/agentflowenterprise](https://paypal.me/agentflowenterprise)
 
 ## 🏦 Bank Transfer (EUR / SEPA)
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Name | Ciprian Stefan Plesca |
 | IBAN | BE83 9679 1975 8915 |
 | BIC/SWIFT | TRWIBEB1XXX |
@@ -26,7 +27,7 @@ helps, no matter the size.
 ## 🏦 Bank Transfer (GBP)
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Name | Ciprian Stefan Plesca |
 | Account Number | 92055372 |
 | Sort Code | 23-14-70 |
@@ -36,7 +37,7 @@ helps, no matter the size.
 ## 🏦 Bank Transfer (USD)
 
 | Field | Value |
-|---|---|
+| --- | --- |
 | Name | Ciprian Stefan Plesca |
 | Account Type | Checking |
 | Routing Number | 026073150 |
@@ -47,7 +48,7 @@ helps, no matter the size.
 ## ₿ Cryptocurrency
 
 | Currency | Address |
-|---|---|
+| --- | --- |
 | Bitcoin (BTC) | `bc1qf3yy0w8z37rwavxpu38wem3yffpanw7wzj32qj` |
 | Ethereum (ETH) | `0x27d9a6a5b8507e6031bb044319410da96222d402` |
 

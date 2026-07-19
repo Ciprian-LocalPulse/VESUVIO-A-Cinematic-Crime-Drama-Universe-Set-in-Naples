@@ -1,3 +1,4 @@
+<!-- markdownlint-disable-next-line MD041 -- centered HTML hero image is intentional; the H1 immediately follows -->
 <p align="center">
   <img src="assets/cover_art.jpg" alt="VESUVIO: Blood of Naples — Key Art" width="100%">
 </p>
@@ -8,7 +9,8 @@
 <p align="center"><em>Every city has a dark heart. This is Naples.</em></p>
 
 <p align="center">
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/license-Custom%20(Creative%20Content)-gold"></a>
+  <a href="LICENSE"><img alt="License"
+src="https://img.shields.io/badge/license-Custom%20(Creative%20Content)-gold"></a>
   <img alt="Status" src="https://img.shields.io/badge/status-pitch%20package-black">
   <img alt="Genre" src="https://img.shields.io/badge/genre-crime%20drama-informational">
   <img alt="Season 1" src="https://img.shields.io/badge/season%201-10%20episodes-blueviolet">
@@ -36,7 +38,7 @@ A global series. A timeless story. A legacy in the making.
 ## ✅ What's Ready
 
 | Element | Description | Status |
-|---|---|---|
+| --- | --- | --- |
 | 📖 **Story Bible** | World, politics, Camorra structure, rules, vocabulary | Ready |
 | 👤 **Character Bible** | 7 core characters, full psychological profiles | Ready |
 | 🎬 **Episode Guide** | Season 1, 10 episodes with synopses | Ready |
@@ -81,7 +83,7 @@ trap territory.
 ## 🧭 Deep-Dive Documents
 
 | Doc | Purpose |
-|---|---|
+| --- | --- |
 | [`FAQ.md`](FAQ.md) | General questions |
 | [`PRODUCERS_FAQ.md`](PRODUCERS_FAQ.md) | Questions for studios/producers |
 | [`TIMELINE.md`](TIMELINE.md) | In-world chronology |
@@ -97,7 +99,7 @@ trap territory.
 
 ## 📂 Repository Structure
 
-```
+```text
 VESUVIO/
 ├── README.md
 ├── LICENSE                   → Custom creative content license (not standard MIT)
